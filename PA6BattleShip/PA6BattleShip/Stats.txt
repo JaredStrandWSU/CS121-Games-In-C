@@ -1,0 +1,29 @@
+Computer: MISS : ROW 9 : COL 3
+Player one: HIT DESTROYER : ROW 2 : COL : 2
+Computer: MISS : ROW 6 : COL 5
+Player One : MISS : ROW 3 : COL 3
+Computer: MISS : ROW 4 : COL 7
+Player one: HIT BATTLESHIP : ROW 1 : COL : 1
+Computer: MISS : ROW 5 : COL 1
+Player One : MISS : ROW 0 : COL 0
+Computer: MISS : ROW 3 : COL 2
+Player one: HIT DESTROYER : ROW 1 : COL : 2
+Computer: MISS : ROW 9 : COL 4
+Player one: HIT BATTLESHIP : ROW 1 : COL : 3
+Computer: MISS : ROW 6 : COL 9
+Player one: HIT BATTLESHIP : ROW 1 : COL : 4
+Computer: MISS : ROW 2 : COL 7
+Player One : MISS : ROW 1 : COL 5
+Computer: MISS : ROW 8 : COL 1
+Player One : MISS : ROW 0 : COL 2
+Computer: HIT DESTROYER : ROW 5 : COL : 3
+Player One : MISS : ROW 1 : COL 0
+Computer: MISS : ROW 3 : COL 0
+Player One : MISS : ROW 2 : COL 1
+Computer: MISS : ROW 1 : COL 4
+Player One : MISS : ROW 0 : COL 1
+Computer: MISS : ROW 1 : COL 9
+Player one: HIT DESTROYER : ROW 3 : COL : 2
+Computer: MISS : ROW 1 : COL 3
+Player One : MISS : ROW 4 : COL 2
+Computer: MISS : ROW 4 : COL 3
